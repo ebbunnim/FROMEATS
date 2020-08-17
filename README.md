@@ -11,8 +11,8 @@
 ![7](./meta_description/7.JPG)
 ![8](./meta_description/8.JPG)
 ![9](./meta_description/9.JPG)
-![10](./meta_description/10.JPG)
-![11](./meta_description/11.JPG)
+![10](./meta_description/11.JPG)
+![11](./meta_description/10.JPG)
 ![12](./meta_description/12.JPG)
 ![13](./meta_description/13.JPG)
 
