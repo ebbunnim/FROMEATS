@@ -1,6 +1,6 @@
 # FROMEATS 
 
-## 서비스 소개
+## 서비스 소개 
 
 ![1](./meta_description/1.JPG)
 ![2](./meta_description/2.JPG)
